@@ -1,0 +1,28 @@
+_repo: De-jongfryske-biweging_75842
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kalma, Douwe
+    birthdate: 1896
+    deathdate: 1953
+    gutenberg_agent_id: '43803'
+    url: http://www.gutenberg.org/2009/agents/43803
+    wikipedia: https://fy.wikipedia.org/wiki/Douwe_Kalma
+description: ''
+gutenberg_issued: '2025-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75842'
+language: fy
+pgterms:marc904: https://tresoar.on.worldcat.org/search?queryString=ti%3A%28De+Jongfryske+Biweging%29+AND+au%3A%28Kalma%29&databaseList=203%2C3313%2C3441%2C3450%2C3551%2C638&origPageViewName=pages%2Fadvanced-search-page&clusterResults=true&groupVariantRecords=false&expandSearch=true&translateSearch=false&queryTranslationLanguage=&lang=en-GB&scope=wz%3A45279
+pgterms:marc905: 20241203082436kalma
+pgterms:marc906: '1915'
+pgterms:marc907: nl
+publication_note: '  $aDokkum :$bBergsma, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: De jongfryske biweging
+url: http://www.gutenberg.org/ebooks/75842
